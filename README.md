@@ -105,7 +105,7 @@ Unlike many established limit-cycle mitigation techniques, which often introduce
 The experimental video clearly demonstrates that:
 
 - The Reset-ISMC architecture eliminates steady-state limit cycles.
-- It significantly improves disturbance rejection capability.
+- It improves disturbance rejection capability.
 - It enhances steady-state precision.
 - It maintains desirable transient response.
 
