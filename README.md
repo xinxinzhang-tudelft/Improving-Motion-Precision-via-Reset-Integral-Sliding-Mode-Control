@@ -52,24 +52,6 @@ d_2(t) = 0.017\sin(0.2\pi t) + 0.085\sin(0.6\pi t) + 0.136\sin(\pi t)
   \Delta = 0.22
   \]
 
-### ISMC Design Parameters
-
-Following the proposed design algorithm:
-
-- Boundary layer thickness:  
-  \[
-  \delta = 0.25
-  \]
-- Switching gain:  
-  \[
-  \rho = 28.34
-  \]
-
-The reachability condition is satisfied:
-\[
-\rho > |CB|\Delta
-\]
-
 ### Experimental Observations
 
 The video shows:
@@ -126,6 +108,5 @@ The experimental video clearly demonstrates that:
 - It significantly improves disturbance rejection capability.
 - It enhances steady-state precision.
 - It maintains desirable transient response.
-- It reduces control effort compared to conventional reset control strategies.
 
 These results validate the theoretical developments and confirm the practical effectiveness of the proposed control framework.
