@@ -2,7 +2,7 @@
 
 The video **"Experimental Video-Fig8 & Fig 10.mp4"** illustrates the experimental validation of the manuscript:
 
-## Improving Motion Precision Through Reset-Integral Sliding Mode Control
+## Improving Motion Precision via Reset-Integral Sliding Mode Control
 
 **Xinxin Zhang, Member, IEEE**  
 **Leonid Freidovich, Senior Member, IEEE**  
